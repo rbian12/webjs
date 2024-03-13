@@ -1,4 +1,4 @@
-const businessSlider = new Swiper(".swiper", {
+const busySlider = new Swiper(".swiper", {
     // // Parameters
     slidesPerView: 3,
     spaceBetween: 16,
